@@ -1,0 +1,206 @@
+
+*{
+    box-sizing: border-box;
+    margin:7px;
+}
+/* .div{
+    background-image:url('https://i.pinimg.com/originals/72/f1/50/72f150a13ebcaee421509c6be7c6cd72.png');
+    height:auto;
+    width:auto;
+    background-size: cover;
+    background-repeat:no-repeat ;
+} */
+ .zom{
+    position:absolute;
+    left:13%;
+    
+} 
+.container-fluid{
+    position:absolute;
+    left:-3%;
+
+}
+.anch{
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top:38.3%;
+    right:20%;
+}
+.box{
+    position:absolute;
+    left:25%;
+    width:45%;
+    height: 50%; 
+}
+.login{
+    font-family: "Nunito Sans", sans-serif;
+    position: absolute;
+    left:75%;
+    font-size:large;
+    font-weight:lighter;
+    margin: -3%;
+    
+}
+
+.signup{
+    font-family: "Nunito Sans", sans-serif;
+    position: absolute;
+    left:65%;
+    font-size:large;
+    font-weight:lighter;
+    margin: -3%;
+    
+}
+pre{
+    font-family: "Nunito Sans", sans-serif;
+    padding-top:5%;
+    padding-left:12%;
+    font-size:small;
+    font-weight: lighter;
+}
+.DO{
+    font-size:20px;
+    font-weight:25px;
+    font-family: "Nunito Sans", sans-serif;
+    color:grey;
+}
+.D{
+    
+    font-size:20px;
+    font-weight:25px;
+    font-family: "Nunito Sans", sans-serif;
+   
+    color:grey;
+}
+.NL{
+    
+    font-size:20px;
+    font-weight:25px;
+    font-family: "Nunito Sans", sans-serif;
+    color:grey;
+}
+
+#sur{
+    padding-left: 10%;
+}
+button{
+    color:grey;
+    border:1px solid rgb(209, 206, 206);
+    border-radius:30px;
+
+}
+#butt{
+    padding-left: 10%;
+}
+#v417{
+    height:30%;
+    width:80%;
+    padding-left:2%;
+}
+#accordionExample{
+    padding-left: 4%;
+}
+.btn-group{
+    padding-left: 53.5px;
+}
+#apple{
+    float:right;
+}
+.fa-angle-up{
+    position: fixed;
+    right:2%;
+    bottom: 0%;
+    width:2%;
+    text-align: center;
+    color:white;
+    background-color: red;
+
+}
+.DO:hover{
+    text-decoration:underline;
+    color:rgb(49, 2, 2);
+}
+.D:hover{
+    text-decoration:underline;
+    color:rgb(49, 2, 2);
+}
+.NL:hover{
+    text-decoration:underline;
+    color:rgb(49, 2, 2);
+}
+.carda:hover{
+    transform:scale(1.1);
+}
+.cardb:hover{
+    transform:scale(1.1);
+}
+.cardc:hover{
+    transform:scale(1.1);
+}
+.cardd:hover{
+    transform:scale(1.1);
+}
+.carde:hover{
+    transform:scale(1.1);
+}
+.cardf:hover{
+    transform:scale(1.1);
+}
+.cardg:hover{
+    transform:scale(1.1);
+}
+.about:hover{
+    transform:translate(2px,3px);
+    cursor:cell;
+}
+.zoma:hover{
+    transform:translate(2px,3px);
+    cursor:cell;
+}
+.for:hover{
+    transform:translate(2px,3px);
+    cursor:cell;
+}
+.learn:hover{
+    transform:translate(2px,3px);
+    cursor:cell;
+}
+.social:hover{
+    transform:translate(2px,3px);
+    cursor:cell;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
